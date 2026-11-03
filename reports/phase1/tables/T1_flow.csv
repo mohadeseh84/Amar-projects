@@ -1,0 +1,10 @@
+﻿step,n
+DEMO_L: all records,11933
+BPXO_L: all records,7801
+BMX_L: all records,8860
+Age >= 20 (interviewed),7809
+... and examined in MEC (RIDSTATR=2),6064
+... after merge with BPXO_L (rows),6064
+... after merge with BMX_L (rows),6064
+... with >= 1 systolic reading,5863
+... with all 3 systolic readings (ANALYTIC),5842
