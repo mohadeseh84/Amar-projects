@@ -1,0 +1,23 @@
+{
+  "n_analytic": 5842,
+  "sum_weights_analytic": 236172112.432803,
+  "weights_min": 4581.595095,
+  "weights_max": 227108.296958,
+  "weight_ratio": 49.56970056255048,
+  "n_psu": 30,
+  "n_strata": 15,
+  "pct_first_higher": 47.706264977747345,
+  "pct_equal": 7.001027045532352,
+  "pct_first_lower": 45.2927079767203,
+  "corr_d13_age": 0.04679534580693208,
+  "miss_other": {
+    "BMI missing among analytic": 57,
+    "cuff size missing among analytic": 0,
+    "arm missing among analytic": 0,
+    "weight missing/zero among analytic": 0,
+    "any diastolic >= systolic (3 readings)": 0,
+    "age=80 (top-coded 80+) among analytic": 315,
+    "exactly identical 3 systolic readings": 44,
+    "|reading1-reading3| >= 30 mmHg": 22
+  }
+}
